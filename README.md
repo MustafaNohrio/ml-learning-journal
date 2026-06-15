@@ -1,2 +1,37 @@
-# ml-learning-journal
-My machine learning journey - documenting progress daily 
+# ML Learning Journal
+
+Welcome to my Machine Learning learning journal.
+
+I created this repository to document what I learn, build, and discover while studying Machine Learning and Artificial Intelligence.
+
+## Current Focus
+
+* Python Fundamentals
+
+## Journal Entries
+
+* [June 15, 2026](journal/2026-06-15.md)
+
+## Repositories
+
+* Python Fundamentals (practice code and mini-projects)
+* ML Learning Journal (daily learning notes)
+* Future NumPy Practice
+* Future Pandas Practice
+* Future Machine Learning Projects
+
+## Progress
+
+* [x] Set up GitHub repositories
+* [x] Set up Python and VS Code
+* [x] Started Python Fundamentals 
+* [x] Completed Python Fundamentals
+* [ ] Learn NumPy
+* [ ] Learn Pandas
+* [ ] Complete first data analysis project
+* [ ] Complete first machine learning project
+
+---
+
+Learning one step at a time.
+ 
