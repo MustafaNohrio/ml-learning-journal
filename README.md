@@ -10,6 +10,7 @@ I created this repository to document what I learn, build, and discover while st
 
 ## Journal Entries
 
+* [June 19, 2026](journal/2026-06-19.md)
 * [June 18, 2026](journal/2026-06-18.md)
 * [June 17, 2026](journal/2026-06-17.md)
 * [June 16, 2026](journal/2026-06-16.md)
