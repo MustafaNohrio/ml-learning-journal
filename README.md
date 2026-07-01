@@ -10,6 +10,7 @@ I created this repository to document what I learn, build, and discover while st
 
 ## Journal Entries
 
+* [June 30, 2026](journal/2026-06-30.md)
 * [June 27, 2026](journal/2026-06-27.md)
 * [June 23, 2026](journal/2026-06-23.md)
 * [June 22, 2026](journal/2026-06-22.md)
@@ -34,7 +35,7 @@ I created this repository to document what I learn, build, and discover while st
 * [x] Set up GitHub repositories
 * [x] Set up Python and VS Code
 * [x] Started Python Fundamentals 
-* [x] Completed Python Fundamentals
+* [ ] Completed Python Fundamentals
 * [ ] Learn NumPy
 * [ ] Learn Pandas
 * [ ] Complete first data analysis project
@@ -42,5 +43,5 @@ I created this repository to document what I learn, build, and discover while st
 
 ---
 
-Learning one step at a time.
+> Learning one step at a time.
  
