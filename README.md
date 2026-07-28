@@ -10,6 +10,7 @@ I created this repository to document what I learn, build, and discover while st
 
 ## Journal Entries
 
+* [July 28, 2026](journal/2026-07-28.md)
 * [July 27, 2026](journal/2026-07-27.md)
 * [July 26, 2026](journal/2026-07-26.md)
 * [July 24, 2026](journal/2026-07-24.md)
@@ -47,8 +48,6 @@ I created this repository to document what I learn, build, and discover while st
 
 * Python Fundamentals (practice code and mini-projects)
 * ML Learning Journal (daily learning notes)
-* Future NumPy Practice
-* Future Pandas Practice
 * Future Machine Learning Projects
 
 ## Progress
